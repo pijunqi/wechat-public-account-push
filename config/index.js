@@ -37,9 +37,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
       // 所在省份
-      province: "广东",
+      province: "河南",
       // 所在城市
-      city: "肇庆",
+      city: "商丘",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.cnblogs.com/pijunqi/"
     }, 
@@ -47,8 +47,8 @@ export const config = {
       name: "老公", 
       id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
       useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
-      province: "",
-      city: "",
+      province: "河南",
+      city: "商丘",
       openUrl: "https://www.cnblogs.com/pijunqi/"
     }, 
   ],
@@ -79,7 +79,7 @@ export const config = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "河南",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "夏邑县",
+  CITY: "商丘",
 
   /** 重要节日相关 */
 
@@ -115,7 +115,7 @@ export const config = {
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-16"},
     // 退伍日, 不用可以删掉
-    //{"keyword": "ex_day", date: "2022-08-31"},
+    {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
