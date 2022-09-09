@@ -45,24 +45,24 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "",
-      useTemplateId: "",
+      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
+      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
       name: "老婆2",
-      id: "",
-      useTemplateId: "",
+      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
+      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
       name: "老婆3", 
-      id: "",
-      useTemplateId: "",
+      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
+      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
       province: "",
       city: "",
       openUrl: "https://wangxinleo.cn"
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
     }, 
   ],
     
