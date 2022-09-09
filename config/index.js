@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
+      id: "oKX576KaX0m6FY8KvB_jdnY62-yM",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
       // 所在省份
@@ -90,9 +90,9 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "美丽可爱的老婆大人", "year": "1994", "date": "04-22"},
+   {"type": "生日", "name": "帅气逼人的飒爽老公", "year": "1993", "date": "11-08"},
     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-16"},
-    {"type": "生日", "name": "帅气逼人的飒爽老公", "year": "1993", "date": "11-08"},
+     {"type": "生日", "name": "美丽可爱的老婆大人", "year": "1994", "date": "04-22"},
     {"type": "节日", "name": "怀孕纪念日", "year": "2022", "date": "01-21"},
   ],
 
@@ -101,7 +101,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 3,
 
   /** 日期相关 */
 
