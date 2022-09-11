@@ -33,7 +33,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oKX576KaX0m6FY8KvB_jdnY62-yM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
+      useTemplateId: "RLQlwtADppB3rAfjvN_LIQ_T7ZBNaRxMRfDPXjr8NFU",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -44,7 +44,7 @@ export const config = {
     {
       name: "老公", 
       id: "oKX576K4mJxNXRXF9CPGbL7dqUAM",
-      useTemplateId: "viv3byWXd_z3aflBECZgP4HFvMdpNjWP1jjw3nlZm6k",
+      useTemplateId: "RLQlwtADppB3rAfjvN_LIQ_T7ZBNaRxMRfDPXjr8NFU",
       province: "河南",
       city: "商丘",
       openUrl: "https://m.tianqi.com/xiayi/15/"
